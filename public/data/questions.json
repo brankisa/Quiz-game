@@ -1,0 +1,61 @@
+[
+    {
+        "question": "What is JavaScript?",
+        "answer": ["A programming language", "Video editing software"],
+        "correctAnswer": 1
+    },
+
+    {
+        "question": "Is Earth flat?",
+        "answer": ["Yes", "No"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "Linux is?",
+        "answer": ["Programming language", "Operating system"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "Xbox is a console?",
+        "answer": ["No", "Yes"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "Android is based on Linux?",
+        "answer": ["Yes", "No"],
+        "correctAnswer": 1
+    },
+
+    {
+        "question": "Free throw in basketball is worth one point?",
+        "answer": ["No", "Yes"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "ROM is a standard connector on PC?",
+        "answer": ["Yes", "No"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "What is ReactJS?",
+        "answer": ["A JavaScript framework", "Operating system"],
+        "correctAnswer": 1
+    },
+
+    {
+        "question": "Node.js is a JavaScript runtime environment?",
+        "answer": ["No", "Yes"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "Is Belgrade the capital of Serbia?",
+        "answer": ["Yes", "No"],
+        "correctAnswer": 1
+    }
+]
