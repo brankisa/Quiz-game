@@ -64,7 +64,7 @@ const question8 = new Question (
 
 const question9 = new Question (
     question = 'What is ReactJS?',
-    answer = ['A JavaScript framework', 'Operating system'],
+    answer = ['A JavaScript library', 'Operating system'],
     correctAnswer = 1
 ) 
 
